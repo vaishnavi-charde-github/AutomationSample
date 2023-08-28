@@ -1,0 +1,6 @@
+framework module Pods_AutomationSample {
+  umbrella header "Pods-AutomationSample-umbrella.h"
+
+  export *
+  module * { export * }
+}

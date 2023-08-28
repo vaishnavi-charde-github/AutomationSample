@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   ExportOptions.plist
+   AutomationSample
+
+   Created by Tissa-Tech on 28/08/23.
+   Copyright (c) 2023 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+
+    <dict>
+
+        <key>method</key>
+
+        <string>app-store</string>
+
+        <key>provisioningProfiles</key>
+
+        <dict>
+
+            <key>com.Tissatech.AutomationSample</key>
+
+            <string>df0f1dc1-407d-494e-a8de-cb47e42b6a1e</string>
+
+        </dict>
+
+        <key>signingCertificate</key>
+
+        <string>iPhone distribution</string>
+
+        <key>signingStyle</key>
+
+        <string>automatic</string>
+
+        <key>stripSwiftSymbols</key>
+
+        <true/>
+
+        <key>teamID</key>
+
+        <string>8H4VCQCSWU</string>
+
+    </dict>
+
+</plist>
