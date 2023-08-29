@@ -58,7 +58,7 @@ jobs:
 
  
 
-      - name: Build IPA
+      - name: Build IPAA
 
         run: xcodebuild -workspace AutomationSample.xcworkspace -scheme AutomationSample -configuration Release clean archive -archivePath AutomationSample.xcarchive CODE_SIGNING_ALLOWED=NO -allowProvisioningUpdates
 
